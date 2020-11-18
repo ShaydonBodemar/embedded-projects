@@ -1,0 +1,1570 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+                              src/stm32l1xx_it.o (HAL_IncTick)
+C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+                              C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o) (HAL_NVIC_SetPriorityGrouping)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-errno.o)
+                              src/syscalls.o (__errno)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+                              c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+uwTick              0x4               C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+__lock___env_recursive_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .text          0x00000000       0x74 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .group         0x00000000        0xc src/main.o
+ .text          0x00000000        0x0 src/main.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/stm32l1xx_it.o
+ .text          0x00000000        0x0 src/stm32l1xx_it.o
+ .data          0x00000000        0x0 src/stm32l1xx_it.o
+ .bss           0x00000000        0x0 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0xa72 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x106 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x28 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x22 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x22 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x8e src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x51 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0xef src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x6a src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x1df src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x34 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x34 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0xcb4 src/stm32l1xx_it.o
+ .debug_macro   0x00000000     0xbb91 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x43 src/stm32l1xx_it.o
+ .debug_macro   0x00000000     0x342b src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x5e src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x18 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x35 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x34 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x16 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x97 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x330 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0xfd src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x10 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x58 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x1f src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x43 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x20 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x18e src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x10 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x1c src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x52 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x40 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x10 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x40 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0xd7 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x1c src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x3d src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x16 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x16f src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x56 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0xe3e src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x24b src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x141 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0xba src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x25d src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x23a src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x64d src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x16f src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x1fb src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0xe3 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x22 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x117 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0xac src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x11a src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x573 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x225 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x199 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x79 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x3d7 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x129 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x30 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x1ed src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x22 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x28e src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x5d6 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x1ed src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x1c src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x757 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0xac src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x287 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x233 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x1c3 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x2f7 src/stm32l1xx_it.o
+ .debug_macro   0x00000000       0x89 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x281 src/stm32l1xx_it.o
+ .debug_macro   0x00000000      0x3dd src/stm32l1xx_it.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .group         0x00000000        0xc src/syscalls.o
+ .text          0x00000000        0x0 src/syscalls.o
+ .data          0x00000000        0x4 src/syscalls.o
+ .bss           0x00000000        0x8 src/syscalls.o
+ .text.initialise_monitor_handles
+                0x00000000        0xc src/syscalls.o
+ .text._getpid  0x00000000        0xe src/syscalls.o
+ .text._kill    0x00000000       0x20 src/syscalls.o
+ .text._exit    0x00000000       0x14 src/syscalls.o
+ .text._read    0x00000000       0x3a src/syscalls.o
+ .text._write   0x00000000       0x38 src/syscalls.o
+ .text._sbrk    0x00000000       0x58 src/syscalls.o
+ .text._close   0x00000000       0x16 src/syscalls.o
+ .text._fstat   0x00000000       0x1e src/syscalls.o
+ .text._isatty  0x00000000       0x14 src/syscalls.o
+ .text._lseek   0x00000000       0x18 src/syscalls.o
+ .text._open    0x00000000       0x1a src/syscalls.o
+ .text._wait    0x00000000       0x1e src/syscalls.o
+ .text._unlink  0x00000000       0x1e src/syscalls.o
+ .text._times   0x00000000       0x16 src/syscalls.o
+ .text._stat    0x00000000       0x1e src/syscalls.o
+ .text._link    0x00000000       0x20 src/syscalls.o
+ .text._fork    0x00000000       0x16 src/syscalls.o
+ .text._execve  0x00000000       0x22 src/syscalls.o
+ .debug_info    0x00000000      0xf2e src/syscalls.o
+ .debug_abbrev  0x00000000      0x2aa src/syscalls.o
+ .debug_aranges
+                0x00000000       0xb0 src/syscalls.o
+ .debug_ranges  0x00000000       0xa0 src/syscalls.o
+ .debug_macro   0x00000000      0x243 src/syscalls.o
+ .debug_macro   0x00000000      0xa72 src/syscalls.o
+ .debug_macro   0x00000000       0x22 src/syscalls.o
+ .debug_macro   0x00000000       0x58 src/syscalls.o
+ .debug_macro   0x00000000       0x18 src/syscalls.o
+ .debug_macro   0x00000000       0x94 src/syscalls.o
+ .debug_macro   0x00000000       0x35 src/syscalls.o
+ .debug_macro   0x00000000       0x34 src/syscalls.o
+ .debug_macro   0x00000000       0x57 src/syscalls.o
+ .debug_macro   0x00000000      0x174 src/syscalls.o
+ .debug_macro   0x00000000      0x330 src/syscalls.o
+ .debug_macro   0x00000000       0x58 src/syscalls.o
+ .debug_macro   0x00000000       0x1f src/syscalls.o
+ .debug_macro   0x00000000       0x43 src/syscalls.o
+ .debug_macro   0x00000000       0x20 src/syscalls.o
+ .debug_macro   0x00000000      0x18e src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x35 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x6a src/syscalls.o
+ .debug_macro   0x00000000       0x1c src/syscalls.o
+ .debug_macro   0x00000000       0x52 src/syscalls.o
+ .debug_macro   0x00000000       0x40 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x40 src/syscalls.o
+ .debug_macro   0x00000000       0xd7 src/syscalls.o
+ .debug_macro   0x00000000       0x1c src/syscalls.o
+ .debug_macro   0x00000000       0x3d src/syscalls.o
+ .debug_macro   0x00000000       0x35 src/syscalls.o
+ .debug_macro   0x00000000      0x122 src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000       0x29 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000      0x241 src/syscalls.o
+ .debug_macro   0x00000000       0x1c src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x10 src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000      0x16f src/syscalls.o
+ .debug_macro   0x00000000      0x189 src/syscalls.o
+ .debug_macro   0x00000000       0x16 src/syscalls.o
+ .debug_macro   0x00000000       0x88 src/syscalls.o
+ .debug_line    0x00000000      0x5df src/syscalls.o
+ .debug_str     0x00000000     0x8579 src/syscalls.o
+ .comment       0x00000000       0x80 src/syscalls.o
+ .debug_frame   0x00000000      0x2d0 src/syscalls.o
+ .ARM.attributes
+                0x00000000       0x33 src/syscalls.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .group         0x00000000        0xc src/system_stm32l1xx.o
+ .text          0x00000000        0x0 src/system_stm32l1xx.o
+ .data          0x00000000        0x4 src/system_stm32l1xx.o
+ .bss           0x00000000        0x0 src/system_stm32l1xx.o
+ .rodata        0x00000000       0x24 src/system_stm32l1xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000      0x154 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0xa72 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x28 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x22 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x22 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x8e src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x51 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0xef src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x6a src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x1df src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x34 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x34 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0xcb4 src/system_stm32l1xx.o
+ .debug_macro   0x00000000     0xbb91 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x43 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x106 src/system_stm32l1xx.o
+ .debug_macro   0x00000000     0x342b src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x5e src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x18 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x35 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x34 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x16 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x97 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x330 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0xfd src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x10 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x58 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x1f src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x43 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x20 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x18e src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x10 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x1c src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x52 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x40 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x10 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x40 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0xd7 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x1c src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x3d src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x16 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x16f src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x56 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0xe3e src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x24b src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x141 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0xba src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x25d src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x23a src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x64d src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x16f src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x1fb src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0xe3 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x22 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x117 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0xac src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x11a src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x573 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x225 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x199 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x79 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x3d7 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x129 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x30 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x1ed src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x22 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x28e src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x5d6 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x1ed src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x1c src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x757 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0xac src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x287 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x233 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x1c3 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x2f7 src/system_stm32l1xx.o
+ .debug_macro   0x00000000       0x89 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x281 src/system_stm32l1xx.o
+ .debug_macro   0x00000000      0x3dd src/system_stm32l1xx.o
+ .text          0x00000000       0x14 startup/startup_stm32l152xc.o
+ .data          0x00000000        0x0 startup/startup_stm32l152xc.o
+ .bss           0x00000000        0x0 startup/startup_stm32l152xc.o
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text          0x00000000        0x0 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .data          0x00000000        0x0 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .bss           0x00000000        0x0 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_Init
+                0x00000000       0x38 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_DeInit
+                0x00000000       0x3c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_MspInit
+                0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_MspDeInit
+                0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_InitTick
+                0x00000000       0x38 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_GetTick
+                0x00000000       0x14 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_Delay
+                0x00000000       0x2c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_SuspendTick
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_ResumeTick
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_GetHalVersion
+                0x00000000       0x14 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_GetREVID
+                0x00000000       0x18 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_GetDEVID
+                0x00000000       0x18 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x106 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x22 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x22 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x8e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x51 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0xef C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x6a C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x1df C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x34 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x34 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0xcb4 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000     0xbb91 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x43 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000     0x342b C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x5e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x18 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x35 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x34 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x16 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x97 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x330 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0xfd C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x10 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x58 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x1f C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x43 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x20 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x18e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x10 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x52 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x40 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x10 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x40 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0xd7 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x3d C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x16 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x16f C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x56 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0xe3e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x24b C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x141 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0xba C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x25d C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x23a C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x64d C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x16f C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x1fb C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0xe3 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x22 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x117 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0xac C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x11a C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x573 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x225 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x199 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x79 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x3d7 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x129 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x30 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x1ed C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x22 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x28e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x5d6 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x1ed C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x757 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0xac C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x287 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x233 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x1c3 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x2f7 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000       0x89 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x281 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00000000      0x3dd C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .group         0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text          0x00000000        0x0 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .data          0x00000000        0x0 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .bss           0x00000000        0x0 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.NVIC_SetPriorityGrouping
+                0x00000000       0x48 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.NVIC_GetPriorityGrouping
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.NVIC_EnableIRQ
+                0x00000000       0x30 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.NVIC_DisableIRQ
+                0x00000000       0x34 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.NVIC_GetPendingIRQ
+                0x00000000       0x34 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.NVIC_SetPendingIRQ
+                0x00000000       0x34 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.NVIC_ClearPendingIRQ
+                0x00000000       0x34 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.NVIC_GetActive
+                0x00000000       0x34 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.NVIC_SetPriority
+                0x00000000       0x54 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.NVIC_GetPriority
+                0x00000000       0x4c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.NVIC_EncodePriority
+                0x00000000       0x64 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.NVIC_DecodePriority
+                0x00000000       0x6c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.NVIC_SystemReset
+                0x00000000       0x28 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.SysTick_Config
+                0x00000000       0x44 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x00000000       0x16 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_NVIC_SetPriority
+                0x00000000       0x38 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_NVIC_SystemReset
+                0x00000000        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_SYSTICK_Config
+                0x00000000       0x18 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_MPU_Enable
+                0x00000000       0x28 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_MPU_Disable
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x88 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000        0xe C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x2c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x1e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x1e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x38 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0xa5a C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x106 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x2e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x22 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x22 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x8e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x51 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0xef C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x6a C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x1df C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x34 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x34 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0xcb4 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000     0xbb91 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x43 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000     0x342b C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x5e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x18 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x35 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x34 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x16 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x97 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x330 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0xfd C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x10 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x58 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x1f C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x43 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x20 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x18e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x10 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x52 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x40 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x10 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x40 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0xd7 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x3d C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x16 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x16f C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x56 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0xe3e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x24b C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x141 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0xba C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x25d C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x23a C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x64d C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x16f C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x1fb C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0xe3 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x22 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x117 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0xac C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x11a C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x573 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x225 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x199 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x79 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x3d7 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x129 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x30 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x1ed C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x22 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x28e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x5d6 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x1ed C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x757 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0xac C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x287 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x233 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x1c3 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x2f7 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000       0x89 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x281 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_macro   0x00000000      0x3dd C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x94 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x38 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xe8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .eh_frame      0x00000000        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .text          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .data          0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .bss           0x00000000        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00040000         xr
+RAM              0x20000000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+LOAD src/main.o
+LOAD src/stm32l1xx_it.o
+LOAD src/syscalls.o
+LOAD src/system_stm32l1xx.o
+LOAD startup/startup_stm32l152xc.o
+LOAD C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libm.a
+START GROUP
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a
+END GROUP
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+LOAD c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x20008000                _estack = 0x20008000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x13c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x13c startup/startup_stm32l152xc.o
+                0x08000000                g_pfnVectors
+                0x0800013c                . = ALIGN (0x4)
+
+.text           0x0800013c      0x4c0
+                0x0800013c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800013c       0x40 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ *(.text*)
+ .text.LL_AHB1_GRP1_EnableClock
+                0x0800017c       0x30 src/main.o
+ .text.LL_GPIO_SetPinMode
+                0x080001ac       0x58 src/main.o
+ .text.LL_GPIO_IsInputPinSet
+                0x08000204       0x28 src/main.o
+ .text.LL_GPIO_SetOutputPin
+                0x0800022c       0x1a src/main.o
+ .text.LL_GPIO_ResetOutputPin
+                0x08000246       0x1a src/main.o
+ .text.main     0x08000260       0x38 src/main.o
+                0x08000260                main
+ .text.GpioInit
+                0x08000298       0x4c src/main.o
+                0x08000298                GpioInit
+ .text.LedClock
+                0x080002e4       0xa4 src/main.o
+                0x080002e4                LedClock
+ .text.SysTick_Handler
+                0x08000388       0x10 src/stm32l1xx_it.o
+                0x08000388                SysTick_Handler
+ .text.SystemInit
+                0x08000398       0x68 src/system_stm32l1xx.o
+                0x08000398                SystemInit
+ .text.Reset_Handler
+                0x08000400       0x48 startup/startup_stm32l152xc.o
+                0x08000400                Reset_Handler
+ .text.Default_Handler
+                0x08000448        0x2 startup/startup_stm32l152xc.o
+                0x08000448                RTC_Alarm_IRQHandler
+                0x08000448                EXTI2_IRQHandler
+                0x08000448                COMP_ACQ_IRQHandler
+                0x08000448                DebugMon_Handler
+                0x08000448                HardFault_Handler
+                0x08000448                TIM10_IRQHandler
+                0x08000448                USB_HP_IRQHandler
+                0x08000448                TIM6_IRQHandler
+                0x08000448                PVD_IRQHandler
+                0x08000448                PendSV_Handler
+                0x08000448                NMI_Handler
+                0x08000448                EXTI3_IRQHandler
+                0x08000448                EXTI0_IRQHandler
+                0x08000448                I2C2_EV_IRQHandler
+                0x08000448                UsageFault_Handler
+                0x08000448                SPI1_IRQHandler
+                0x08000448                USB_FS_WKUP_IRQHandler
+                0x08000448                DMA2_Channel2_IRQHandler
+                0x08000448                DMA1_Channel4_IRQHandler
+                0x08000448                ADC1_IRQHandler
+                0x08000448                USART3_IRQHandler
+                0x08000448                DMA1_Channel7_IRQHandler
+                0x08000448                LCD_IRQHandler
+                0x08000448                TIM4_IRQHandler
+                0x08000448                DMA2_Channel1_IRQHandler
+                0x08000448                I2C1_EV_IRQHandler
+                0x08000448                DMA1_Channel6_IRQHandler
+                0x08000448                DMA2_Channel4_IRQHandler
+                0x08000448                TIM3_IRQHandler
+                0x08000448                RCC_IRQHandler
+                0x08000448                DMA1_Channel1_IRQHandler
+                0x08000448                Default_Handler
+                0x08000448                EXTI15_10_IRQHandler
+                0x08000448                TIM7_IRQHandler
+                0x08000448                TIM5_IRQHandler
+                0x08000448                EXTI9_5_IRQHandler
+                0x08000448                TIM9_IRQHandler
+                0x08000448                TAMPER_STAMP_IRQHandler
+                0x08000448                RTC_WKUP_IRQHandler
+                0x08000448                SPI2_IRQHandler
+                0x08000448                MemManage_Handler
+                0x08000448                SVC_Handler
+                0x08000448                DMA2_Channel5_IRQHandler
+                0x08000448                DMA1_Channel5_IRQHandler
+                0x08000448                USB_LP_IRQHandler
+                0x08000448                EXTI4_IRQHandler
+                0x08000448                DMA1_Channel3_IRQHandler
+                0x08000448                COMP_IRQHandler
+                0x08000448                WWDG_IRQHandler
+                0x08000448                TIM2_IRQHandler
+                0x08000448                DAC_IRQHandler
+                0x08000448                EXTI1_IRQHandler
+                0x08000448                TIM11_IRQHandler
+                0x08000448                USART2_IRQHandler
+                0x08000448                I2C2_ER_IRQHandler
+                0x08000448                DMA1_Channel2_IRQHandler
+                0x08000448                FLASH_IRQHandler
+                0x08000448                BusFault_Handler
+                0x08000448                USART1_IRQHandler
+                0x08000448                SPI3_IRQHandler
+                0x08000448                I2C1_ER_IRQHandler
+                0x08000448                DMA2_Channel3_IRQHandler
+ *fill*         0x0800044a        0x2 
+ .text.HAL_IncTick
+                0x0800044c       0x1c C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+                0x0800044c                HAL_IncTick
+ .text.HAL_SYSTICK_IRQHandler
+                0x08000468        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+                0x08000468                HAL_SYSTICK_IRQHandler
+ .text.HAL_SYSTICK_Callback
+                0x08000474        0xc C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+                0x08000474                HAL_SYSTICK_Callback
+ .text.__libc_init_array
+                0x08000480       0x48 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+                0x08000480                __libc_init_array
+ .text.startup.register_fini
+                0x080004c8       0x14 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x080004dc        0xc c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+                0x080004dc                atexit
+ .text.__libc_fini_array
+                0x080004e8       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+                0x080004e8                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x0800051c        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+                0x0800051c                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x08000520        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+                0x08000520                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x08000524       0xc0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+                0x08000524                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x080005e4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080005e4        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080005e4        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ *(.init)
+ .init          0x080005e4        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x080005e4                _init
+ .init          0x080005e8        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x080005f0        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x080005f0                _fini
+ .fini          0x080005f4        0x8 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x080005fc                . = ALIGN (0x4)
+                0x080005fc                _etext = .
+
+.vfp11_veneer   0x080005fc        0x0
+ .vfp11_veneer  0x080005fc        0x0 linker stubs
+
+.v4_bx          0x080005fc        0x0
+ .v4_bx         0x080005fc        0x0 linker stubs
+
+.iplt           0x080005fc        0x0
+ .iplt          0x080005fc        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.rodata         0x080005fc        0x4
+                0x080005fc                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._global_impure_ptr
+                0x080005fc        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+                0x080005fc                _global_impure_ptr
+                0x08000600                . = ALIGN (0x4)
+
+.rel.dyn        0x08000600        0x0
+ .rel.iplt      0x08000600        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08000600        0x0
+                0x08000600                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08000600                __exidx_end = .
+
+.preinit_array  0x08000600        0x0
+                0x08000600                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08000600                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08000600        0x8
+                0x08000600                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x08000600        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08000604        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x08000608                PROVIDE (__init_array_end = .)
+
+.fini_array     0x08000608        0x4
+                0x08000608                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08000608        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x0800060c                PROVIDE (__fini_array_end = .)
+                0x0800060c                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x434 load address 0x0800060c
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000        0x4 src/main.o
+ *(.data*)
+ *fill*         0x20000004        0x4 
+ .data.impure_data
+                0x20000008      0x428 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000430        0x4 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+                0x20000430                __atexit_recursive_mutex
+                0x20000434                . = ALIGN (0x4)
+                0x20000434                _edata = .
+
+.igot.plt       0x20000434        0x0 load address 0x08000a40
+ .igot.plt      0x20000434        0x0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x20000434                . = ALIGN (0x4)
+
+.bss            0x20000434       0x48 load address 0x08000a40
+                0x20000434                _sbss = .
+                0x20000434                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000434       0x1c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .bss           0x20000450        0x4 src/main.o
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x20000454        0x4 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+                0x20000454                uwTick
+ COMMON         0x20000458       0x21 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+                0x20000458                __lock___atexit_recursive_mutex
+                0x2000045c                __lock___arc4random_mutex
+                0x20000460                __lock___env_recursive_mutex
+                0x20000464                __lock___sinit_recursive_mutex
+                0x20000468                __lock___malloc_recursive_mutex
+                0x2000046c                __lock___at_quick_exit_mutex
+                0x20000470                __lock___dd_hash_mutex
+                0x20000474                __lock___tz_mutex
+                0x20000478                __lock___sfp_recursive_mutex
+                0x2000047c                . = ALIGN (0x4)
+ *fill*         0x20000479        0x3 
+                0x2000047c                _ebss = .
+                0x2000047c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x2000047c      0x604 load address 0x08000a40
+                0x20000480                . = ALIGN (0x8)
+ *fill*         0x2000047c        0x4 
+                0x20000480                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x20000680                . = (. + _Min_Heap_Size)
+ *fill*         0x20000480      0x200 
+                0x20000a80                . = (. + _Min_Stack_Size)
+ *fill*         0x20000680      0x400 
+                0x20000a80                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x33 src/main.o
+ .ARM.attributes
+                0x0000007d       0x33 src/stm32l1xx_it.o
+ .ARM.attributes
+                0x000000b0       0x33 src/system_stm32l1xx.o
+ .ARM.attributes
+                0x000000e3       0x21 startup/startup_stm32l152xc.o
+ .ARM.attributes
+                0x00000104       0x33 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .ARM.attributes
+                0x00000137       0x33 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .ARM.attributes
+                0x0000016a       0x2d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000197       0x2d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000001c4       0x2d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000001f1       0x2d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000021e       0x2d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000024b       0x2d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000278       0x2d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000002a5       0x1d c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+OUTPUT(Assign02.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x473f
+ .debug_info    0x00000000      0xcee src/main.o
+ .debug_info    0x00000cee      0x96d src/stm32l1xx_it.o
+ .debug_info    0x0000165b      0xc71 src/system_stm32l1xx.o
+ .debug_info    0x000022cc       0x22 startup/startup_stm32l152xc.o
+ .debug_info    0x000022ee      0xedf C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_info    0x000031cd     0x1572 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+
+.debug_abbrev   0x00000000      0xcb8
+ .debug_abbrev  0x00000000      0x2e2 src/main.o
+ .debug_abbrev  0x000002e2      0x1b1 src/stm32l1xx_it.o
+ .debug_abbrev  0x00000493      0x205 src/system_stm32l1xx.o
+ .debug_abbrev  0x00000698       0x12 startup/startup_stm32l152xc.o
+ .debug_abbrev  0x000006aa      0x2a3 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_abbrev  0x0000094d      0x36b C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+
+.debug_aranges  0x00000000      0x290
+ .debug_aranges
+                0x00000000       0x58 src/main.o
+ .debug_aranges
+                0x00000058       0x20 src/stm32l1xx_it.o
+ .debug_aranges
+                0x00000078       0x28 src/system_stm32l1xx.o
+ .debug_aranges
+                0x000000a0       0x28 startup/startup_stm32l152xc.o
+ .debug_aranges
+                0x000000c8       0xb0 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_aranges
+                0x00000178      0x118 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+
+.debug_ranges   0x00000000      0x238
+ .debug_ranges  0x00000000       0x48 src/main.o
+ .debug_ranges  0x00000048       0x10 src/stm32l1xx_it.o
+ .debug_ranges  0x00000058       0x18 src/system_stm32l1xx.o
+ .debug_ranges  0x00000070       0x20 startup/startup_stm32l152xc.o
+ .debug_ranges  0x00000090       0xa0 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_ranges  0x00000130      0x108 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+
+.debug_macro    0x00000000    0x193b2
+ .debug_macro   0x00000000      0x479 src/main.o
+ .debug_macro   0x00000479      0xa72 src/main.o
+ .debug_macro   0x00000eeb       0x28 src/main.o
+ .debug_macro   0x00000f13       0x22 src/main.o
+ .debug_macro   0x00000f35       0x22 src/main.o
+ .debug_macro   0x00000f57       0x8e src/main.o
+ .debug_macro   0x00000fe5       0x51 src/main.o
+ .debug_macro   0x00001036       0xef src/main.o
+ .debug_macro   0x00001125       0x6a src/main.o
+ .debug_macro   0x0000118f      0x1df src/main.o
+ .debug_macro   0x0000136e       0x34 src/main.o
+ .debug_macro   0x000013a2       0x34 src/main.o
+ .debug_macro   0x000013d6      0xcb4 src/main.o
+ .debug_macro   0x0000208a     0xbb91 src/main.o
+ .debug_macro   0x0000dc1b       0x43 src/main.o
+ .debug_macro   0x0000dc5e      0x106 src/main.o
+ .debug_macro   0x0000dd64     0x342b src/main.o
+ .debug_macro   0x0001118f       0x5e src/main.o
+ .debug_macro   0x000111ed       0x18 src/main.o
+ .debug_macro   0x00011205       0x35 src/main.o
+ .debug_macro   0x0001123a       0x34 src/main.o
+ .debug_macro   0x0001126e       0x16 src/main.o
+ .debug_macro   0x00011284       0x97 src/main.o
+ .debug_macro   0x0001131b      0x330 src/main.o
+ .debug_macro   0x0001164b       0xfd src/main.o
+ .debug_macro   0x00011748       0x10 src/main.o
+ .debug_macro   0x00011758       0x58 src/main.o
+ .debug_macro   0x000117b0       0x1f src/main.o
+ .debug_macro   0x000117cf       0x43 src/main.o
+ .debug_macro   0x00011812       0x20 src/main.o
+ .debug_macro   0x00011832      0x18e src/main.o
+ .debug_macro   0x000119c0       0x10 src/main.o
+ .debug_macro   0x000119d0       0x1c src/main.o
+ .debug_macro   0x000119ec       0x52 src/main.o
+ .debug_macro   0x00011a3e       0x40 src/main.o
+ .debug_macro   0x00011a7e       0x10 src/main.o
+ .debug_macro   0x00011a8e       0x40 src/main.o
+ .debug_macro   0x00011ace       0xd7 src/main.o
+ .debug_macro   0x00011ba5       0x1c src/main.o
+ .debug_macro   0x00011bc1       0x3d src/main.o
+ .debug_macro   0x00011bfe       0x16 src/main.o
+ .debug_macro   0x00011c14      0x16f src/main.o
+ .debug_macro   0x00011d83       0x56 src/main.o
+ .debug_macro   0x00011dd9      0xe3e src/main.o
+ .debug_macro   0x00012c17      0x24b src/main.o
+ .debug_macro   0x00012e62      0x141 src/main.o
+ .debug_macro   0x00012fa3       0xba src/main.o
+ .debug_macro   0x0001305d      0x25d src/main.o
+ .debug_macro   0x000132ba      0x23a src/main.o
+ .debug_macro   0x000134f4      0x64d src/main.o
+ .debug_macro   0x00013b41      0x16f src/main.o
+ .debug_macro   0x00013cb0      0x1fb src/main.o
+ .debug_macro   0x00013eab       0xe3 src/main.o
+ .debug_macro   0x00013f8e       0x22 src/main.o
+ .debug_macro   0x00013fb0      0x117 src/main.o
+ .debug_macro   0x000140c7       0xac src/main.o
+ .debug_macro   0x00014173      0x11a src/main.o
+ .debug_macro   0x0001428d      0x573 src/main.o
+ .debug_macro   0x00014800      0x225 src/main.o
+ .debug_macro   0x00014a25      0x199 src/main.o
+ .debug_macro   0x00014bbe       0x79 src/main.o
+ .debug_macro   0x00014c37      0x3d7 src/main.o
+ .debug_macro   0x0001500e      0x129 src/main.o
+ .debug_macro   0x00015137       0x30 src/main.o
+ .debug_macro   0x00015167      0x1ed src/main.o
+ .debug_macro   0x00015354       0x22 src/main.o
+ .debug_macro   0x00015376      0x28e src/main.o
+ .debug_macro   0x00015604      0x5d6 src/main.o
+ .debug_macro   0x00015bda      0x1ed src/main.o
+ .debug_macro   0x00015dc7       0x1c src/main.o
+ .debug_macro   0x00015de3      0x757 src/main.o
+ .debug_macro   0x0001653a       0xac src/main.o
+ .debug_macro   0x000165e6      0x287 src/main.o
+ .debug_macro   0x0001686d      0x233 src/main.o
+ .debug_macro   0x00016aa0      0x1c3 src/main.o
+ .debug_macro   0x00016c63      0x2f7 src/main.o
+ .debug_macro   0x00016f5a       0x89 src/main.o
+ .debug_macro   0x00016fe3      0x281 src/main.o
+ .debug_macro   0x00017264      0x3dd src/main.o
+ .debug_macro   0x00017641      0x113 src/main.o
+ .debug_macro   0x00017754      0x156 src/main.o
+ .debug_macro   0x000178aa      0x41d src/stm32l1xx_it.o
+ .debug_macro   0x00017cc7      0x419 src/system_stm32l1xx.o
+ .debug_macro   0x000180e0      0x437 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00018517      0xa5a C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00018f71       0x2e C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_macro   0x00018f9f      0x413 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+
+.debug_line     0x00000000     0x37c0
+ .debug_line    0x00000000      0xb03 src/main.o
+ .debug_line    0x00000b03      0xa0d src/stm32l1xx_it.o
+ .debug_line    0x00001510      0xa0b src/system_stm32l1xx.o
+ .debug_line    0x00001f1b       0x7d startup/startup_stm32l152xc.o
+ .debug_line    0x00001f98      0xb38 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_line    0x00002ad0      0xcf0 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+
+.debug_str      0x00000000    0xa4902
+ .debug_str     0x00000000    0xa3d5a src/main.o
+                              0xa406e (size before relaxing)
+ .debug_str     0x000a3d5a       0x61 src/stm32l1xx_it.o
+                              0xa2f1c (size before relaxing)
+ .debug_str     0x000a3dbb       0xd0 src/system_stm32l1xx.o
+                              0xa3019 (size before relaxing)
+ .debug_str     0x000a3e8b       0x2f startup/startup_stm32l152xc.o
+                                 0x58 (size before relaxing)
+ .debug_str     0x000a3eba      0x678 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+                              0xa3630 (size before relaxing)
+ .debug_str     0x000a4532      0x3d0 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+                              0xa377a (size before relaxing)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f src/main.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 src/stm32l1xx_it.o
+ .comment       0x0000007f       0x80 src/system_stm32l1xx.o
+ .comment       0x0000007f       0x80 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .comment       0x0000007f       0x80 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+
+.debug_frame    0x00000000      0xa7c
+ .debug_frame   0x00000000      0x130 src/main.o
+ .debug_frame   0x00000130       0x2c src/stm32l1xx_it.o
+ .debug_frame   0x0000015c       0x58 src/system_stm32l1xx.o
+ .debug_frame   0x000001b4      0x270 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal.o)
+ .debug_frame   0x00000424      0x498 C:\Users\shayd\workspace\stm32l152c-disco_hal_lib\Debug\libstm32l152c-disco_hal_lib.a(stm32l1xx_hal_cortex.o)
+ .debug_frame   0x000008bc       0x2c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .debug_frame   0x000008e8       0x5c c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000944       0x20 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000964       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x00000998       0xb0 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .debug_frame   0x00000a48       0x34 c:/ac6/systemworkbench/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/compiler/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
